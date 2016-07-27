@@ -26,4 +26,14 @@ img {
     font-family: 'Aref Ruqaa', serif;
     color: #ffed64
 }
+
+.bottomright {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 18px;
+}
+
+i{
+    color: beige;
 }
