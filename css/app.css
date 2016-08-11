@@ -38,3 +38,10 @@ i{
     color: beige;
     word-spacing: 10px;
 }
+body {
+    background-image: url(../images/static.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
